@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="format-detection" content="telephone=no" />
+  <meta http-equiv="Content-Language" content="zh-CN">
+  <meta http-equiv="Expires" content="-1">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta name="Robots" content="noindex, nofollow">
+  <meta name="renderer" content="webkit">
+
+  <style>
+    .container {
+      margin-top: 160px;
+    }
+    .container img {
+      display: block;
+      width: 696px;
+      margin: 0 auto;
+    }
+    .title {
+      width: 100%;
+      text-align: center;
+      color: #4D4D4D;
+      font-size: 18px;
+    }
+    .title p {
+      font-size: 14px;
+    }
+    .link {
+      display: block;
+      font-size: 14px;
+      margin: 0 auto;
+      margin-top: 50px;
+      background-color: #9B82DB;
+      color: #fff;
+      width: 110px;
+      height: 36px;
+      line-height: 36px;
+      border-radius: 18px;
+      text-align: center;
+      text-decoration: none;
+      
+
+      transition: all 0.5s;
+    }
+    .link:hover {
+      background-color: #9B82DB;
+      box-shadow: 0px 5px 3px rgba(222, 217, 248, 0.7);
+    }
+  </style>
+
+
+</head>
+<body>
+  <div class='container'>
+    <img src="https://img1.dxycdn.com/2018/0801/981/3292338978586097338-2.png" alt="">
+    <h2 class="title">
+      您访问的页面不存在 随便逛逛
+      <p>
+          The page you visited does not exist <br>
+          just stroll around
+      </p>
+    </h2>
+    <a class="link" href="https://www.dxy.cn">返回主页</a>
+  </div>
+
+</body>
+
+</html>
